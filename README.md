@@ -1,2 +1,0 @@
-# bot
-crocoko's bot
